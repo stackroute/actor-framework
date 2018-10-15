@@ -1,0 +1,18 @@
+{
+  "name": "seneca-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.3.3",
+    "rxjs-compat": "^6.3.3",
+    "seneca": "^3.7.0",
+    "seneca-transport": "^2.3.0"
+  }
+}
